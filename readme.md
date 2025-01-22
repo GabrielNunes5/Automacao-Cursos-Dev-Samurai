@@ -81,7 +81,7 @@ options.set_preference(
 ## **Avisos**
 - O site deve permitir que os arquivos sejam baixados diretamente ao clicar nos links.
 - Caso o site exija autenticação, você precisará incluir etapas para login no script.
-
+- O codigo utiliza Firefox para a automação. Caso deseje utilizar Chorme basta mudar o Gecko Driver para Chorme Driver
 ---
 
 
@@ -93,4 +93,4 @@ Sinta-se à vontade para contribuir com melhorias ou adaptações para outros ti
 ### **Autor**
 Gabriel Nunes
 
-Conecte-se comigo no [LinkedIn](www.linkedin.com/in/gabriel-nunes-72484b318)!
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gabriel-nunes-72484b318)!
