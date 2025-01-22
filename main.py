@@ -16,7 +16,7 @@ options.set_preference(
 # Desativar visualizador de PDF interno
 options.set_preference("pdfjs.disabled", True)
 # Ativar o modo headless (sem interface gráfica)
-options.headless = True
+options.add_argument("--headless")
 
 # Inicializar o navegador com o GeckoDriver
 service = Service(GeckoDriverManager().install())
@@ -31,7 +31,7 @@ try:
     time.sleep(3)  # Aguarde o carregamento da página
 
     # Número total de elementos (conforme os seus xpaths)
-    total_links = 67  # Ajuste conforme necessário
+    total_links = 67
 
     for i in range(1, total_links + 1):
         # Construir o XPath dinâmico
