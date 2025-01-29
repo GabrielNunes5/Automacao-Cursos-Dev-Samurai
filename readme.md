@@ -93,4 +93,4 @@ Sinta-se à vontade para contribuir com melhorias ou adaptações para outros ti
 ### **Autor**
 Gabriel Nunes
 
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gabriel-nunes-72484b318)!
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/gabriel-nunes-085gn)!
